@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Restaurante Tectoy</string>
+    <string name="escreva_se_n_aperte_aqui">Escreva-se\n Click aqui</string>
+    <string name="informe_seu_setor">Informe seu CPF</string>
+    <string name="finalizar_cadastro">Finalizar Cadastro</string>
+    <string name="informe_seu_nome">Informe nome e sobrenome</string>
+    <string name="_nome">Nome:</string>
+    <string name="_setor">Setor:</string>
+    <string name="cpf">CPF:</string>
+
+
+    <string-array name="itens">
+        <item></item>
+        <item>Administrativo Produção</item>
+        <item>Compras</item>
+        <item>Comercial</item>
+        <item>Contabilidade</item>
+        <item>Certificação</item>
+        <item>Célula de Exceção</item>
+        <item>Customes Services</item>
+        <item>Fiscal</item>
+        <item>Financeiro</item>
+        <item>Logístíca</item>
+        <item>Laboratório 1</item>
+        <item>Laboratório 2</item>
+        <item>Produção</item>
+        <item>Qualidade</item>
+        <item>RH / Sesmt</item>
+        <item>Suporte</item>
+        <item>T.I Infra / Segurança</item>
+        <item>outros</item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

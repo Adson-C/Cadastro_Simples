@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:background="@drawable/toast_error"
+    android:paddingStart="10dp"
+    android:paddingEnd="10dp"
+    android:paddingTop="05dp"
+    android:paddingBottom="05dp"
+    android:layout_margin="20dp"
+    android:id="@+id/containa_toast_erro"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/erroimage"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:src="@drawable/ic_erro"
+        />
+
+    <TextView
+        android:id="@+id/text_messa_erro"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="CPF já cadastrado!"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginStart="05dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#BA6761"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
